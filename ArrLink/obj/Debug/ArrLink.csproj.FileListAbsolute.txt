@@ -1,0 +1,6 @@
+D:\Projects\ArrLink\ArrLink\bin\Debug\ArrLink.exe.config
+D:\Projects\ArrLink\ArrLink\bin\Debug\ArrLink.exe
+D:\Projects\ArrLink\ArrLink\bin\Debug\ArrLink.pdb
+D:\Projects\ArrLink\ArrLink\obj\Debug\ArrLink.csprojResolveAssemblyReference.cache
+D:\Projects\ArrLink\ArrLink\obj\Debug\ArrLink.exe
+D:\Projects\ArrLink\ArrLink\obj\Debug\ArrLink.pdb
